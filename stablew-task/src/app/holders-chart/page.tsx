@@ -1,9 +1,9 @@
-import Chart from "./Chart";
+import HoldersChart from "./HoldersChart";
 
 export default function HolderChartPage() {
   return (
     <main className="p-8">
-      <Chart />
+      <HoldersChart />
     </main>
   );
 }

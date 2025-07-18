@@ -1,4 +1,4 @@
-import HolderChartPage from "./holder-chart/page";
+import HolderChartPage from "./holders-chart/page";
 
 export default function Home() {
   return (
